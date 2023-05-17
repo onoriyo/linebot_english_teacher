@@ -6,16 +6,17 @@ This is a system for Japanese users who are learning English vocabulary. The sys
 
 To use this system, you need to have the following credentials:
 
-・OpenAI API key
-・Line Channel Access Token
-・Line Channel Secret
+・OpenAI API key  
+・Line Channel Access Token  
+・Line Channel Secret  
 
 After obtaining these credentials, you can clone this repository and run the code.
 
-Bash
+```Bash
 git clone https://github.com/username/repository.git
 cd repository
 python app.py
+```
 
 ## Dependencies
 
