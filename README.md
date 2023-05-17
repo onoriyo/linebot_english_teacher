@@ -13,7 +13,7 @@ To use this system, you need to have the following credentials:
 After obtaining these credentials, you can clone this repository and run the code.
 
 ```Bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/onoriyo/linebot_english_teacher.git
 cd repository
 python app.py
 ```
@@ -22,9 +22,9 @@ python app.py
 
 This code uses the following dependencies:
 
-・FastAPI
-・OpenAI API
-・Linebot
+・FastAPI  
+・OpenAI API  
+・Linebot  
 
 ## Usage
 
@@ -32,12 +32,13 @@ To use this system, you need to send an array of English words to the system. Th
 
  ## Input Example
 
-Bash
+```Bash
 construction reserve
+```
 
 ## Output Example
 
-Bash
+```Bash
 WORD_1 : construction
 PREFIX_1 : con- ... 一緒に
 ROOT_1 : struct ... 建てる
@@ -67,6 +68,7 @@ TIPS_2 :
 [類義語] ... book (予約する), save (蓄える), store (蓄える),
 [重要表現] ... reserve the right to do (～する権利を有する),
 [使用例] ... I will reserve a table for two for tonight. (今夜の二人分のテーブルを予約します。)
+```
 
 ## Note
 Please note that the provided URL is being used as a database for personal use only. Do not share the code or data obtained from this URL with others without permission.
