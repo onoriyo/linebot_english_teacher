@@ -15,7 +15,7 @@ After obtaining these credentials, you can clone this repository and run the cod
 ```Bash
 git clone https://github.com/onoriyo/linebot_english_teacher.git
 cd repository
-python app.py
+python linebot_main.py
 ```
 
 ## Dependencies
