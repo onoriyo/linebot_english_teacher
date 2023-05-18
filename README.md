@@ -2,8 +2,6 @@
 
 This is a system for Japanese users who are learning English vocabulary. The system processes English words and their components, such as prefixes, roots, and suffixes. Then it outputs useful information for the user to memorize the English words.
 
-A part of code is copied from https://qiita.com/IoriGunji/items/d84fd35e0da1b68ff7f5.
-
 ## Getting Started
 
 To use this system, you need to have the following credentials:
